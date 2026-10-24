@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Prediction System Using Machine Learning
+# 🌧️ Rainfall Prediction System 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">

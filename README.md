@@ -267,7 +267,7 @@ Install the following before running the project:
 Replace the placeholder URL with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Rainfall-Prediction-System.git
+git clone https://github.com/ankitiqcode/rainfall-prediction-app/blob/main/README.md
 ```
 
 Move into the project directory:
